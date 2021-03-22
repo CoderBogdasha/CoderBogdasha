@@ -6,6 +6,6 @@
 - 🦠 Not interesting fact: Finly is not exist
 - 😿 Sad fact: I am not as worthy of the title of lyceum student as Andriy Andreev
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderBogdasha)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderBogdasha&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderBogdasha&show_icons=true&theme=dark)](https://github.com/CoderBogdasha/github-readme-stats)
