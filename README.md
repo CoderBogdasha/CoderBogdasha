@@ -1,7 +1,7 @@
 ### Hi SAS
 - ⌨️ I’m bot-developer(IT Specialist(experience 1 year))
 - 🌱 I’m currently learning: Python & Machine learning
-- 📫 How to reach me: No way
+- 📫 How to reach me: Telegram(https://t.me/coder8jedi)
 - 😁 Fun fact: SAS is my teacher
 - 🥖 Interesting fact: I'm trivial Entusiast in quasi superposition
 - 😿 Sad fact: I am not as worthy of the title of lyceum student as Andrew Andreev
