@@ -6,7 +6,7 @@
 - 🥖 Interesting fact: I'm trivial Entusiast in quasi superposition
 - 😿 Sad fact: I am not as worthy of the title of lyceum student as Andrew Andreev
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder8jedi&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder8jedi&show_icons=true&theme=onedark&show_all_commits=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coder8jedi&theme=onedark&layout=compact)](https://github.com/coder8jedi/github-readme-stats)
 
